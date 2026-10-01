@@ -1,3 +1,3 @@
 # Example JSON API
 ## Endpoints
-<code>/api/users.json</code>
+<code>/api/users.txt</code>
